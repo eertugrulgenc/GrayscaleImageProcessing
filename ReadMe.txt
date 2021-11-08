@@ -1,0 +1,1 @@
+After running the program, you can select the type of any txt file given in the program according to its number and print the image of the txt file on the screen.
